@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSString * a = @"0.002";
-    NSString * b = @"9988";
+    NSString * b = @"666";
     NSString * result = [self decimalNumberMutiplyWithString:a multiplicandValue:b];
     NSLog(@"%@",result);
 }
